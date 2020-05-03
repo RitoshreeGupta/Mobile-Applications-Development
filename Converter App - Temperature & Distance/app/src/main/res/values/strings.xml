@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Converter App</string>
+    <string name="temperature_converter">Temperature Converter</string>
+    <string name="enter_temperature">Enter Temperature</string>
+    <string name="celsius_to_fahrenheit">Celsius to Fahrenheit</string>
+    <string name="fahrenheit_to_celsius">Fahrenheit to Celsius</string>
+    <string name="convert">Convert</string>
+    <string name="_0_degrees">0 Degrees</string>
+    <string name="distance_converter">Distance Converter</string>
+    <string name="enter_value">Enter Value</string>
+    <string name="kilometers_to_miles">Kilometers to Miles</string>
+    <string name="miles_to_kilometer">Miles to Kilometer</string>
+    <string name="answer">Answer</string>
+    <string name="calculate">Calculate</string>
+    <string name="save">Save</string>
+
+
+</resources>

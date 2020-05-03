@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">COVID_19</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="title_home">Home</string>
+    <string name="title_country">Country</string>
+    <string name="title_usa">Only US Cases</string>
+    <string name="covid_19_pandemic">COVID-19 Pandemic</string>
+</resources>

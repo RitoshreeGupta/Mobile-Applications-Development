@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project03_Weather_Forecast</string>
+    <array name="Citys">
+        <item>Choose any city</item>
+        <item>Detroit</item>
+        <item>Dearborn</item>
+        <item>Warren</item>
+        <item>New York</item>
+        <item>Monroe</item>
+    </array>
+</resources>

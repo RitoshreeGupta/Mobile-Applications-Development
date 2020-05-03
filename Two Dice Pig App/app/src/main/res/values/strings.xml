@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project1_TwoDicePig</string>
+    <string name="button_text">Roll Dice</string>
+    <string name="hold">Hold</string>
+    <string name="turn_total">Turn Total: 0</string>
+    <string name="player_1">Player 1 Total: 0</string>
+    <string name="player_2">Player 2 Total: 0</string>
+    <string name="current_player">Current Player: P1</string>
+    <string name="playerwins">Which Player Wins?</string>
+
+</resources>

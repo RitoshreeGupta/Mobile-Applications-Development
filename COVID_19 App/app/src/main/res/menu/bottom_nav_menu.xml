@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/home_selector"
+        android:title="@string/title_home"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/navigation_country"
+        android:icon="@drawable/country_selector"
+        android:title="@string/title_country"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/navigation_usa"
+        android:title="@string/title_usa"
+        android:icon="@drawable/country_selector"
+        app:showAsAction="never"/>
+
+
+
+
+</menu>
